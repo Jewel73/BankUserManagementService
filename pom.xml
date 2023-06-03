@@ -11,7 +11,7 @@
 	<groupId>com.jtech.userservice</groupId>
 	<artifactId>BankUserManagementService</artifactId>
 	<version>0.0.3</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>BankUserManagementService</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
