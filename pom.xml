@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.jtech.userservice</groupId>
 	<artifactId>BankUserManagementService</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<packaging>war</packaging>
 	<name>BankUserManagementService</name>
 	<description>Demo project for Spring Boot</description>
@@ -79,7 +79,7 @@
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
                 <outputDirectory>${project.basedir}/target</outputDirectory>
-		    <finalName>bankUserservice</finalName>
+		   
             </configuration>
 	        </plugin>
 	    </plugins>
