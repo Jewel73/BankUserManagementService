@@ -10,11 +10,7 @@
 	</parent>
 	<groupId>com.jtech.userservice</groupId>
 	<artifactId>BankUserManagementService</artifactId>
-<<<<<<< Updated upstream
-	<version>0.0.3</version>
-=======
 	<version>0.0.1-SNAPSHOT</version>
->>>>>>> Stashed changes
 	<packaging>jar</packaging>
 	<name>BankUserManagementService</name>
 	<description>Demo project for Spring Boot</description>
