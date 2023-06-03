@@ -33,7 +33,7 @@ public class User {
     @Column(nullable = false, unique = true)
     private String email;
 
-    @Column(nullable = false)
+    @Column(nullable = true)
     private Date dateOfBirth;
 
     @Column(nullable = false, unique = true)
