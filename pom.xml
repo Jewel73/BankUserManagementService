@@ -79,6 +79,7 @@
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
                 <outputDirectory>${project.basedir}/target</outputDirectory>
+		    <finalName>bankUserservice</finalName>
             </configuration>
 	        </plugin>
 	    </plugins>
